@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-customer/spring-customer.iml" filepath="$PROJECT_DIR$/spring-customer/spring-customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-eurake-server/spring-eurake-server.iml" filepath="$PROJECT_DIR$/spring-eurake-server/spring-eurake-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-service/spring-prodiver.iml" filepath="$PROJECT_DIR$/eurake-service/spring-prodiver.iml" />
+    </modules>
+  </component>
+</project>
